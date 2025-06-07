@@ -20,7 +20,7 @@ int main()
     }
 
     // Entrada del numero a buscar
-    cout << "Ingresa un numero que quieras buscar: ";
+    cout << "Ingresa un numero que quieras buscar en tu lista: ";
     cin >> numberToFind;
 
     // Bucle para buscar el numero
